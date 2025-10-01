@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/justinas/alice"
-	"snippetbox.ramlimbu.net/ui"
+	"github.com/rlimbu/snippets/ui"
 )
 
 func (app *application) routes() http.Handler {

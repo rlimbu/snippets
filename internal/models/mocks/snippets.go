@@ -3,7 +3,7 @@ package mocks
 import (
 	"time"
 
-	"snippetbox.ramlimbu.net/internal/models"
+	"github.com/rlimbu/snippets/internal/models"
 )
 
 var mockSnippet = models.Snippet{

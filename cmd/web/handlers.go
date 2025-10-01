@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"snippetbox.ramlimbu.net/internal/models"
-	"snippetbox.ramlimbu.net/internal/validator"
+	"github.com/rlimbu/snippets/internal/models"
+	"github.com/rlimbu/snippets/internal/validator"
 )
 
 type snippetCreateForm struct {

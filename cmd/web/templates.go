@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/justinas/nosurf"
-	"snippetbox.ramlimbu.net/internal/models"
-	"snippetbox.ramlimbu.net/ui"
+	"github.com/rlimbu/snippets/internal/models"
+	"github.com/rlimbu/snippets/ui"
 )
 
 type templateData struct {

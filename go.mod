@@ -1,4 +1,4 @@
-module snippetbox.ramlimbu.net
+module github.com/rlimbu/snippets
 
 go 1.25
 

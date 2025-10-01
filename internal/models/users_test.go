@@ -3,7 +3,7 @@ package models
 import (
 	"testing"
 
-	"snippetbox.ramlimbu.net/internal/assert"
+	"github.com/rlimbu/snippets/internal/assert"
 )
 
 func TestUserModelExists(t *testing.T) {

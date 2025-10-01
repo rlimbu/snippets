@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"snippetbox.ramlimbu.net/internal/assert"
+	"github.com/rlimbu/snippets/internal/assert"
 )
 
 func TestHumanDate(t *testing.T) {

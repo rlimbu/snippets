@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"snippetbox.ramlimbu.net/internal/assert"
+	"github.com/rlimbu/snippets/internal/assert"
 )
 
 func TestCommonHeaders(t *testing.T) {

@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"snippetbox.ramlimbu.net/internal/models"
+	"github.com/rlimbu/snippets/internal/models"
 
 	"github.com/go-playground/form/v4"
 	_ "github.com/go-sql-driver/mysql"
